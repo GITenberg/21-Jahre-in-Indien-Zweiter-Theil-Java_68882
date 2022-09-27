@@ -1,11 +1,16 @@
 _repo: 21-Jahre-in-Indien-Zweiter-Theil-Java_68882
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68882-h/images/cover.jpg
 creator:
   author:
     agent_name: Breitenstein, Heinrich
     gutenberg_agent_id: '54995'
     url: http://www.gutenberg.org/2009/agents/54995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68882#21-Jahre-in-Indien-Zweiter-Theil-Java
 gutenberg_issued: '2022-08-31'
 identifiers:
   gutenberg: '68882'
